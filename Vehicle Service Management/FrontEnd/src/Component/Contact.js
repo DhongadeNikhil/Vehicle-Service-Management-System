@@ -41,10 +41,10 @@ const Contact = () => {
                   </Card.Subtitle>
                   <Card.Text>
                     <Image src="./images/icon.png" alt="Logo" width="30px" />
-                    +91-8766671113
+                    +91-9370744485
                     <br />
                     <Image src="./images/icon.png" alt="Logo" width="30px" />
-                    +91-6267552789
+                    +91-7218003431
                   </Card.Text>
                 </Card.Body>
               </Col>
@@ -61,7 +61,7 @@ const Contact = () => {
                   </Card.Subtitle>
                   <Card.Text>
                     <Image src="./images/email.png" alt="Logo" width="35px" />
-                    Customer Support : agarwal.rishabh2001@gmail.com
+                    Customer Support : ndhongade699@gmail.com
                   </Card.Text>
                 </Card.Body>
               </Col>
@@ -83,7 +83,7 @@ const Contact = () => {
                     ---------------------------------------
                   </Card.Subtitle>
                   <Card.Text>
-                  B J Road, Sadhu Vaswani Circle, Near Pune Railway Station, Pune, Maharashtra 411001, India
+                   Bandra Reclamation West,near MET IIT,Mumbai
                   </Card.Text>
                 </Card.Body>
               </Col>
